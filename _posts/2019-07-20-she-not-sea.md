@@ -2,8 +2,9 @@
 layout: post
 title:  "She not Sea!"
 author: shivani
-categories: [ poem ]
+categories: [ poetry ]
 image: assets/images/demo1.jpg
+excerpt: "I have/had a problem. Called it a misfeature. I guess all humans have faced. In days of their miniature."
 ---
 I have/had a problem.  
 Called it a misfeature.  
@@ -61,3 +62,7 @@ I mutter inside my mouth
 a lot.  
 Only not to make myself  
 Appear as Zug.
+
+This post originally appeared on [Shivani's personal blog][shivani-blog].
+
+[shivani-blog]: http://unlockingdoor.blogspot.com/2019/07/she-not-sea.html
