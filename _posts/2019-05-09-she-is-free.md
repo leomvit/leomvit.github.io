@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "She's free"
-categories: [ poem ]
+categories: [ poetry ]
 author: swati 
+image: assets/images/7.jpg 
 ---
 She's a wild flower, they said, as free as the wind,
 She dances to the rhythm of the rain,
