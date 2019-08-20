@@ -2,8 +2,9 @@
 layout: post
 title:  "She not Sea!"
 author: shivani
-categories: [ poem ]
+categories: [ poetry ]
 image: assets/images/demo1.jpg
+excerpt: "I have/had a problem. Called it a misfeature. I guess all humans have faced. In days of their miniature."
 ---
 I have/had a problem.  
 Called it a misfeature.  
