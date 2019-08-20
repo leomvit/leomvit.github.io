@@ -22,7 +22,7 @@ authors:
     shivani:
       name:           Shivani Sen
       site:           http://unlockingdoor.blogspot.com/
-      avatar:         /assets/images/authors/shivani.jpeg
+      avatar:         "/assets/images/authors/shivani.jpeg"
       bio:            "A budding engineer, aspires to make people feel experiences with her words."
       email:          shivani.sen16052000@gmail.com
       twitter:        https://www.instagram.com/ssshhh_vani/
@@ -30,7 +30,7 @@ authors:
     swati:
       name:           Swati Mishra
       site:           https://swati1995blog.wordpress.com/
-      avatar:         /assets/images/authors/swati.png
+      avatar:         "/assets/images/authors/swati.png"
       bio:            "A proud misfit who's all about dogs, books and everything that's Bollywood. Still waiting for a Hogwarts letter."
       email:          fakemail@gmail.com
       twitter:        https://www.instagram.com/winged_pursuits/
