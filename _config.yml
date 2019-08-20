@@ -19,21 +19,21 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    shivani:
+      name:           Shivani Sen
+      site:           http://unlockingdoor.blogspot.com/
+      avatar:         /assets/images/authors/shivani.jpeg
+      bio:            "A budding engineer, aspires to make people feel experiences with her words."
+      email:          shivani.sen16052000@gmail.com
+      twitter:        https://www.instagram.com/ssshhh_vani/
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+    swati:
+      name:           Swati Mishra
+      site:           https://swati1995blog.wordpress.com/
+      avatar:         /assets/images/authors/swati.png
+      bio:            "A proud misfit who's all about dogs, books and everything that's Bollywood. Still waiting for a Hogwarts letter."
       email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        https://www.instagram.com/winged_pursuits/
  
 # Defaults
 defaults:
