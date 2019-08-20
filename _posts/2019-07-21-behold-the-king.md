@@ -3,7 +3,7 @@ layout: post
 title:  "BEHOLD THE KING"
 author: sal
 categories: [ poetry ]
-image: assets/images/20190820_233750.jpg
+image: assets/images/20190820_235804.jpg
 tags: [featured]
 excerpt: "For the love of the queen "
 ---
@@ -29,9 +29,9 @@ only thrill
 
 Protect your king, let his flag hoist high  
 
-I1ove my queen enough than to make her cry  
+I 1ove my queen enough than to make her cry  
 We can't undo things, so I'd better not try  
 Before doomed be her fate, behold the king,  
 **let me die.**
 
-![Behold the king!](/assets/images/jake-colling--dbAuw_PsuQ-unsplash.jpg "Behold the king")
+![Behold the king!](/assets/images/20190820_233750.jpg "Behold the king")
