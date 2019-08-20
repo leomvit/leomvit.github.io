@@ -62,3 +62,7 @@ I mutter inside my mouth
 a lot.  
 Only not to make myself  
 Appear as Zug.
+
+This post originally appeared on [Shivani's personal blog][shivani-blog].
+
+[shivani-blog]: http://unlockingdoor.blogspot.com/2019/07/she-not-sea.html
