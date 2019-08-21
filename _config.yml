@@ -12,12 +12,12 @@ include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
 authors:
     shivani:
       name:           Shivani Sen
@@ -34,7 +34,15 @@ authors:
       bio:            "A proud misfit who's all about dogs, books and everything that's Bollywood. Still waiting for a Hogwarts letter."
       email:          fakemail@gmail.com
       twitter:        https://www.instagram.com/winged_pursuits/
- 
+
+    abhishek:
+      name:           Abhishek kumar
+      avatar:         "assets/images/authors/abhishek.jpg"
+      bio:            "exploring darkness to embrace light .exploring words to embrace life. A growing engineer tryin to figure out life through words."
+      email:          abhiabhikr7@gmail.com
+      twitter:        https://www.instagram.com/abhishekk_kumarr__/
+
+
 # Defaults
 defaults:
 
@@ -45,13 +53,13 @@ defaults:
       layout: post
       author: sal
       avatar: /assets/images/avatar1.jpg
-      
+
   # all pages
   - scope:
       path: "_pages"
     values:
       layout: page
-      
+
 # Syntax
 markdown: kramdown
 highlighter: rouge

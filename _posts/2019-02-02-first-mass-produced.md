@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GIVING UP !"
-author: abhishek
+author: sal
 categories: [ poetry ]
 image: assets/images/jake-colling--dbAuw_PsuQ-unsplash.jpg
 tags: [featured]
