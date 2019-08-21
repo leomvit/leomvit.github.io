@@ -1,7 +1,7 @@
 # Site
 name: 'LEO'
 description: 'The literary club of Sir M. Visvesvaraya Institute of Technology, Bangalore.'
-logo: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl:
 disqus: 'leomvit'
