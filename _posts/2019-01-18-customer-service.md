@@ -4,6 +4,7 @@ title:  "SYLLABUS COMPLETED ,MEMORIES CREATED"
 author: deeksha
 categories: [ blog ]
 image: assets/images/11.jpg
+tags: [featured]
 ---
 
 2013-2014, class 10, roll number- I don’t remember, well that kind of rhymed. Initially, class ten was a little annoying as we had to attend classes during summer while everyone else was enjoying it. Forget about everyone, but when your sibling at home is having the time of her life, then it definitely is a problem.
