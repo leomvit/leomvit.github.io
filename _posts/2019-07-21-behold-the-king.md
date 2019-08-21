@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BEHOLD THE KING"
-author: sal
+author: abhishek
 categories: [ poetry ]
 image: assets/images/20190820_235804.jpg
 tags: [featured]
