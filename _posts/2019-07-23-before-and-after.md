@@ -2,7 +2,7 @@
 layout: post
 title:  "before and after"
 author: vedang
-categories: [ poetry ]
+categories: [ blog ]
 tags: [featured]
 image: assets/images/before-after.jpg
 excerpt: " pre-LEO and post-LEO "
