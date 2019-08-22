@@ -42,6 +42,13 @@ authors:
       email:          abhiabhikr7@gmail.com
       twitter:        https://www.instagram.com/abhishekk_kumarr__/
 
+    vedang:
+      name:           Vedang Singh Thakur
+      avatar:         "assets/images/authors/vedang.jpeg"
+      bio:            "small town boi trying to make stuff happen."
+      email:          vst0010@gmail.com
+      twitter:        https://www.instagram.com/vst_10/
+
 
 # Defaults
 defaults:
