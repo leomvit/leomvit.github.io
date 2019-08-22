@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "before and after"
+title:  "Before and After"
 author: vedang
 categories: [ blog ]
 tags: [featured]
