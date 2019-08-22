@@ -4,7 +4,7 @@ title:  "THE CITY OF JOY."
 author: swati
 categories: [ blog ]
 image: assets/images/howrah_bridge_kolkata3.jpg
-tags: [sticky]
+tags: [featured]
 ---
 
 After a busy semester, it was once again time to go home to my city, Kolkata. After a two hour long flight, I could finally see the city glittering at night, and like every other time I couldn’t control my excitement.
