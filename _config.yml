@@ -49,6 +49,14 @@ authors:
       email:          vst0010@gmail.com
       twitter:        https://www.instagram.com/vst_10/
 
+    deeksha:
+      name:           Deeksha
+      # site:           https://swati1995blog.wordpress.com/
+      avatar:         "assets/images/authors/deeksha.jpeg"
+      bio:            "Words let me speak."
+      # email:          fakemail@gmail.com
+      twitter:        https://www.instagram.com/deeksha_ramesh15/
+
 
 # Defaults
 defaults:
