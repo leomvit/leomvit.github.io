@@ -2,12 +2,11 @@
 layout: post
 title:  "Before and After"
 author: vedang
-categories: [ blog ]
+categories: [ leo ]
 tags: [featured]
 image: assets/images/before-after.jpg
-excerpt: " pre-LEO and post-LEO "
+excerpt: "Pre-LEO and post-LEO"
 ---
-
 My life can be divided into two parts, pre-LEO and post-LEO, and yeah, I bet those two selves are pretty different from each other.
 
 The pre-LEO self can pretty much be described in one word - SHY. If that self had a patronus charm, that would be a Turtle, because I liked being inside my shell. I was that kid who used to sit in the classroom unnoticed, never answered any questions, never talked or did anything of note. Being anxious for each and every thing was my staple diet.
