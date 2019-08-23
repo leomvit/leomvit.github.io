@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "She's free"
+title:  "She's Free"
 categories: [ poetry ]
 author: swati 
 image: assets/images/7.jpg 

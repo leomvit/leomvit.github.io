@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "THE CITY OF JOY."
+title:  "The City of Joy"
 author: swati
 categories: [ blog ]
 image: assets/images/howrah_bridge_kolkata3.jpg

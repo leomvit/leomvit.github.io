@@ -1,8 +1,7 @@
 ---
 layout: page-sidebar
-title:  "ORIENTATION DAY"
+title:  "Orientation Day"
 categories: [ Notification ]
 image: assets/images/orientation.jpeg
 tags: [sticky]
 ---
-
