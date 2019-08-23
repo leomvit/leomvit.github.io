@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SYLLABUS COMPLETED, MEMORIES CREATED"
+title:  "Syllabus Completed, Memories Created"
 author: deeksha
 categories: [ blog ]
 image: assets/images/11.jpg
