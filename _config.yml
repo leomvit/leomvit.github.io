@@ -5,7 +5,7 @@ logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/favicon.ico'
 baseurl:
 disqus: 'leomvit'
-email: 'wowthemesnet@gmail.com'
+email: 'contacts.leomvit@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,43 +19,43 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-    shivani:
-      name:           Shivani Sen
-      site:           http://unlockingdoor.blogspot.com/
-      avatar:         "assets/images/authors/shivani.jpeg"
-      bio:            "A budding engineer, aspires to make people feel experiences with her words."
-      email:          shivani.sen16052000@gmail.com
-      twitter:        https://www.instagram.com/ssshhh_vani/
+  shivani:
+    name:           Shivani Sen
+    site:           http://unlockingdoor.blogspot.com/
+    avatar:         "assets/images/authors/shivani.jpeg"
+    bio:            "A budding engineer, aspires to make people feel experiences with her words."
+    email:          shivani.sen16052000@gmail.com
+    twitter:        https://www.instagram.com/ssshhh_vani/
 
-    swati:
-      name:           Swati Mishra
-      site:           https://swati1995blog.wordpress.com/
-      avatar:         "assets/images/authors/swati.png"
-      bio:            "A proud misfit who's all about dogs, books and everything that's Bollywood. Still waiting for a Hogwarts letter."
-      email:          fakemail@gmail.com
-      twitter:        https://www.instagram.com/winged_pursuits/
+  swati:
+    name:           Swati Mishra
+    site:           https://swati1995blog.wordpress.com/
+    avatar:         "assets/images/authors/swati.png"
+    bio:            "A proud misfit who's all about dogs, books and everything that's Bollywood. Still waiting for a Hogwarts letter."
+    email:          fakemail@gmail.com
+    twitter:        https://www.instagram.com/winged_pursuits/
 
-    abhishek:
-      name:           Abhishek kumar
-      avatar:         "assets/images/authors/abhishek.jpg"
-      bio:            "exploring darkness to embrace light .exploring words to embrace life. A growing engineer tryin to figure out life through words."
-      email:          abhiabhikr7@gmail.com
-      twitter:        https://www.instagram.com/abhishekk_kumarr__/
+  abhishek:
+    name:           Abhishek kumar
+    avatar:         "assets/images/authors/abhishek.jpg"
+    bio:            "exploring darkness to embrace light .exploring words to embrace life. A growing engineer tryin to figure out life through words."
+    email:          abhiabhikr7@gmail.com
+    twitter:        https://www.instagram.com/abhishekk_kumarr__/
 
-    vedang:
-      name:           Vedang Singh Thakur
-      avatar:         "assets/images/authors/vedang.jpeg"
-      bio:            "small town boi trying to make stuff happen."
-      email:          vst0010@gmail.com
-      twitter:        https://www.instagram.com/vst_10/
+  vedang:
+    name:           Vedang Singh Thakur
+    avatar:         "assets/images/authors/vedang.jpeg"
+    bio:            "small town boi trying to make stuff happen."
+    email:          vst0010@gmail.com
+    twitter:        https://www.instagram.com/vst_10/
 
-    deeksha:
-      name:           Deeksha
-      # site:           https://swati1995blog.wordpress.com/
-      avatar:         "assets/images/authors/deeksha.jpeg"
-      bio:            "Words let me speak."
-      # email:          fakemail@gmail.com
-      twitter:        https://www.instagram.com/deeksha_ramesh15/
+  deeksha:
+    name:           Deeksha
+    # site:           https://swati1995blog.wordpress.com/
+    avatar:         "assets/images/authors/deeksha.jpeg"
+    bio:            "Words let me speak."
+    # email:          fakemail@gmail.com
+    twitter:        https://www.instagram.com/deeksha_ramesh15/
 
 
 # Defaults
