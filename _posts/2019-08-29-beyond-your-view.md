@@ -3,7 +3,7 @@ layout: post
 title:  "Beyond your view"
 categories: [ poetry ]
 author: satyam
-image: assets/images/7.jpg
+image: assets/images/beyond-your-view.jpg
 ---
 
 Glance up at the night sky,  

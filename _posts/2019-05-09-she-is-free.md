@@ -2,8 +2,8 @@
 layout: post
 title:  "She's Free"
 categories: [ poetry ]
-author: swati 
-image: assets/images/7.jpg 
+author: swati
+image: assets/images/7.jpg
 ---
 She's a wild flower, they said, as free as the wind,  
 She dances to the rhythm of the rain,  
@@ -31,4 +31,4 @@ She could tame her the spirits,
 they said, take cover as the winds were rough,  
 She was like a wild flower remember,too gentle for the world.  
 However, she was the storm,  
-if only they care to understand her enough. 
+if only they care to understand her enough.
