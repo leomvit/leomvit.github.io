@@ -4,8 +4,7 @@ title:  "Conflicts of Life Goals"
 author: shreoshee
 categories: [ careers ]
 image: assets/images/conflict.jpg
-tags: poetry
-excerpt: "What do you mean when you say, "I want a stable life"? Is it mental peace? Is it steady wealth? Or what else?"
+excerpt: "What do you mean when you say, \"I want a stable life\"? Is it mental peace? Is it steady wealth? Or what else?"
 ---
 What do you mean when you say, "I want a stable life"? Is it mental peace? Is it steady wealth? Or what else? 
 
