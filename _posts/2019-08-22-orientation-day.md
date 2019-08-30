@@ -5,7 +5,7 @@ author: shreoshee
 categories: [ campus ]
 image: assets/images/leo/cover.png
 tags: [sticky]
-excerpt: "Thus marking another successful start for the next year of LEO."
+excerpt: "Thus marking another successful start for the next year of LEO. The LEO Freshers Orientation was scheduled on the 22nd of august in the CSE Seminar Hall of the Main Block."
 ---
 The LEO Freshers Orientation was scheduled on the 22nd of august in the CSE Seminar Hall of the Main Block. Even though conducted in the middle of the day, LEO had a massive turn up for the orientation session. And it was amazing to witness a crowd of such enthusiasts.
 

@@ -4,8 +4,9 @@ title:  "Conflicts of Life Goals"
 author: shreoshee
 categories: [ careers ]
 image: assets/images/conflict.jpg
-excerpt: "What do you mean when you say, \"I want a stable life\"? Is it mental peace? Is it steady wealth? Or what else?"
+excerpt: "What do you mean when you say, \"I want a stable life\"? Is it mental peace? Is it steady wealth? Or what else? This is the question that keeps haunting me every time I dream of my future."
 ---
+
 What do you mean when you say, "I want a stable life"? Is it mental peace? Is it steady wealth? Or what else? 
 
 This is the question that keeps haunting me every time I dream of my future. I keep wondering: what should be my life goal? A life that makes me happy and fills every moment with a smile, or a life full of struggle which finally may bear me a fruit that is called "being remembered". 

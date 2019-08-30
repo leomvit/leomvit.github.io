@@ -5,8 +5,9 @@ author: abhishek
 categories: [ poetry ]
 image: assets/images/20190820_235804.jpg
 tags: [featured]
-excerpt: "For the love of the queen "
+excerpt: "For the love of the queen. Behold the king, don't let him die. Cause I can't see the queen cry. She would give up, won't aim so high. Behold the king, don't let him die."
 ---
+
 **Behold the king**, don't let him die  
 Cause I can't see the queen cry  
 She would give up, won't aim so high  

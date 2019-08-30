@@ -4,6 +4,7 @@ title:  "Beyond Your View"
 categories: [ poetry ]
 author: satyam
 image: assets/images/beyond-your-view.jpg
+excerpt: "Glance up at the night sky. Be it any night, any city, town or park. Don't you see? There's a whole land out there. A place where stars keep shining and everything that happens is orderly."
 ---
 
 Glance up at the night sky,  

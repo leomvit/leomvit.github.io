@@ -5,8 +5,9 @@ author: swati
 categories: [ travel ]
 image: assets/images/howrah_bridge_kolkata3.jpg
 tags: [featured]
-excerpt: After a busy semester, it was once again time to go home to my city, Kolkata.
+excerpt: "After a busy semester, it was once again time to go home to my city, Kolkata. After a two hour long flight, I could finally see the city glittering at night."
 ---
+
 After a busy semester, it was once again time to go home to my city, Kolkata. After a two hour long flight, I could finally see the city glittering at night, and like every other time I couldn’t control my excitement.
 Though Kolkata was home and it was natural to feel that way, there was something about the city which got me excited each time.
 As the cab slowly crawled through the busy traffic, I wondered what was it about the city that I loved so much. I wondered what made the city so special.

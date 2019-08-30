@@ -2,10 +2,12 @@
 layout: post
 title:  "Syllabus Completed, Memories Created"
 author: deeksha
-categories: [ blog ]
+categories: [ school ]
 image: assets/images/13.jpg
 tags: [featured]
+excerpt: "2013-2014, class 10, roll number - I don’t remember, well that kind of rhymed. Initially, class ten was a little annoying as we had to attend classes during summer."
 ---
+
 2013-2014, class 10, roll number - I don’t remember, well that kind of rhymed. Initially, class ten was a little annoying as we had to attend classes during summer while everyone else was enjoying it. Forget about everyone, but when your sibling at home is having the time of her life, then it is a problem.
 We had the same students in both class 9 and 10. So that made this whole thing more exciting. More familiar faces, more comfort, meant more memories.
 
