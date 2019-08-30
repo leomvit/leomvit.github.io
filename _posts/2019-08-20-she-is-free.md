@@ -4,6 +4,7 @@ title:  "She's Free"
 categories: [ poetry ]
 author: swati
 image: assets/images/7.jpg
+excerpt: "She's a wild flower, they said, as free as the wind. She dances to the rhythm of the rain, and to the mountains, she sings. Little do they realize, she dances to fly away."
 ---
 She's a wild flower, they said, as free as the wind,  
 She dances to the rhythm of the rain,  

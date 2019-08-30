@@ -4,14 +4,14 @@ title:  "She not Sea!"
 author: shivani
 categories: [ poetry ]
 image: assets/images/demo1.jpg
-excerpt: "I have/had a problem. Called it a misfeature. I guess all humans have faced. In days of their miniature."
+excerpt: "I have/had a problem. Called it a misfeature. I guess all humans have faced. In days of their miniature. Some for few days, few for no days. And like me, some got no end days."
 ---
 I have/had a problem.  
 Called it a misfeature.  
 I guess all humans have faced  
 In days of their miniature.  
 Some for few days, few for no days.  
-N like me  
+And like me  
 some got no end days.  
 Stammering, stuttering, sound disorder  
 used to be called.  
