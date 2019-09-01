@@ -2,7 +2,7 @@
 layout: post
 title:  "What exactly is L.E.O"
 categories: [Outlook]
-image: assets/images/Welcome.jpg
+image: assets/images/welcomeleo.jpg
 excerpt: "About us"
 tags: [sticky]
 ---
