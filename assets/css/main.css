@@ -5880,7 +5880,13 @@ button.bg-lightblue:focus {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    z-index: 1020; } }
+    z-index: 1020; } 
+}
+
+.gitter-open-chat-button,
+.gitter-chat-embed {
+  z-index: 9999;
+}
 
 .sr-only {
   position: absolute;
