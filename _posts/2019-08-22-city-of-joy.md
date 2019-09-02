@@ -11,7 +11,7 @@ excerpt: "After a busy semester, it was once again time to go home to my city, K
 After a busy semester, it was once again time to go home to my city, Kolkata. After a two hour long flight, I could finally see the city glittering at night, and like every other time I couldn’t control my excitement.
 Though Kolkata was home and it was natural to feel that way, there was something about the city which got me excited each time.
 As the cab slowly crawled through the busy traffic, I wondered what was it about the city that I loved so much. I wondered what made the city so special.
-Maybe it how the colonial buildings struck a sharp contrast with the emerging high risers, and every locality had a history of its own.The city was brimming with stories.
+Maybe it how the colonial buildings struck a sharp contrast with the emerging high risers, and every locality had a history of its own. The city was brimming with stories.
 Maybe it was the city’s obsession for art and literature and how every child was well versed with Rabindra Sangeet.
 Maybe it was the city’s love for chaa(tea) and how bonding over a hot cup of roadside tea was preferred over going out for drinks.
 

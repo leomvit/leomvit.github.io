@@ -38,6 +38,6 @@ around Bengaluru which take place at the state
 and national levels. We have also won prizes in
 many intercollegiate events. Our main motto has
 
-always been **be brave be loud**  
+always been to **"be brave, be loud"**  
  and  
 **we work together to achieve it.**

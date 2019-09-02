@@ -30,6 +30,6 @@ and could light up the world on her own.
 
 She could tame her the spirits,  
 they said, take cover as the winds were rough,  
-She was like a wild flower remember,too gentle for the world.  
+She was like a wild flower remember ,too gentle for the world.  
 However, she was the storm,  
 if only they care to understand her enough.
