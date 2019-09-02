@@ -3,6 +3,7 @@ layout: post
 title:  "What exactly is L.E.O"
 categories: [Outlook]
 image: assets/images/Vintage-Sample-Welcome-Banner-Template.jpg
+author: shreoshee
 excerpt: "About us"
 tags: [sticky]
 ---
