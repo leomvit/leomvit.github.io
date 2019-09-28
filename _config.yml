@@ -73,6 +73,13 @@ authors:
     # email:          fakemail@gmail.com
     twitter:        https://www.instagram.com/shreoshee_mukherjee/
 
+   masoomi:
+    name:           Masoomi Saxena
+    avatar:         "assets/images/authors/masoomi.jpg"
+    bio:            "A bibliophile ambivert with great passion for chicken nuggets. Find me blabbering on stage or jamming to Lana Del Rey."
+    email:          masoomi.saxena99@gmail.com
+    twitter:        https://www.instagram.com/masyoyummy/
+
 
 # Defaults
 defaults:
