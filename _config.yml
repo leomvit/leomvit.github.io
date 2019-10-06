@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl:
 disqus: 'leomvit'
 email: 'contacts.leomvit@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'http://eepurl.com/gB-qZf'
 
 include: ["_pages"]
 permalink: /:title/
@@ -72,8 +72,8 @@ authors:
     bio:            "A dreamer, who just graduated to real life. Loves to be herself. Can't resist pets. Aims to be a Talky and a Techie person. 🙈"
     # email:          fakemail@gmail.com
     twitter:        https://www.instagram.com/shreoshee_mukherjee/
-
-   masoomi:
+ 
+  masoomi: 
     name:           Masoomi Saxena
     avatar:         "assets/images/authors/masoomi.jpg"
     bio:            "A bibliophile ambivert with great passion for chicken nuggets. Find me blabbering on stage or jamming to Lana Del Rey."

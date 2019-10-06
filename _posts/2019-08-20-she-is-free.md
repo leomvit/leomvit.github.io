@@ -4,6 +4,7 @@ title:  "She's Free"
 categories: [ poetry ]
 author: swati
 image: assets/images/7.jpg
+excerpt: "She's a wild flower, they said, as free as the wind. She dances to the rhythm of the rain, and to the mountains, she sings. Little do they realize, she dances to fly away."
 ---
 She's a wild flower, they said, as free as the wind,  
 She dances to the rhythm of the rain,  
@@ -29,6 +30,6 @@ and could light up the world on her own.
 
 She could tame her the spirits,  
 they said, take cover as the winds were rough,  
-She was like a wild flower remember,too gentle for the world.  
+She was like a wild flower remember ,too gentle for the world.  
 However, she was the storm,  
 if only they care to understand her enough.

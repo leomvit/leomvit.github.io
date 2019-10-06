@@ -4,10 +4,11 @@ title:  "Behold the King"
 author: abhishek
 categories: [ poetry ]
 image: assets/images/20190820_235804.jpg
-tags: [featured]
-excerpt: "For the love of the queen "
+excerpt: "For the love of the queen. Behold the king, don't let him die. Cause I can't see the queen cry. She would give up, won't aim so high. Behold the king, don't let him die."
 ---
-**Behold the king**, don't let him die  
+
+**Behold the king**,  
+don't let him die  
 Cause I can't see the queen cry  
 She would give up, won't aim so high  
 Behold the king, don't let him die  
@@ -17,7 +18,7 @@ After all, his wife is the love of mine
 Her eyes inviting like a glass of wine  
 But instead of adieus, she prays the
 king is fine  
-So behold him my friend,let his armour shine  
+So behold him my friend, let his armour shine  
 
 
 The sword through his heart, holding
