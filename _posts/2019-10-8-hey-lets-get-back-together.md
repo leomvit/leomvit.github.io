@@ -4,7 +4,7 @@ title:  "Hey! , Let's get back together. "
 categories: [ poetry ]
 author: avikant
 image: assets/images/hey-lets-get-back-together/lets-get-back-together.jpeg
-excerpt: "Ever missed the loved one? You are not the only one 😂 "
+excerpt: "Ever missed the loved ones? You are not the only one 😂 "
 ---
 ![](/assets/images/hey-lets-get-back-together/family.jpeg)
 
