@@ -4,7 +4,7 @@ title:  "Hey! , Let's get back together. "
 categories: [ poetry ]
 author: avikant
 image: assets/images/hey-lets-get-back-together/lets-get-back-together.jpeg
-excerpt: "Ever missed the loved one? You are not the only one 😂 "
+excerpt: "Ever missed the loved ones? You are not the only one 😂 "
 ---
 ![](/assets/images/hey-lets-get-back-together/family.jpeg)
 
@@ -25,5 +25,5 @@ Hey, let's get back together, my BROTHER. <br />
 <br />
 Life lessons that you taught, <br />
 You inspired me a lot. <br />
-Without I wouldn't be the person to steady, <br />
+Without you, I wouldn't be the person so steady, <br />
 Hey, let's get back together, my DADDY. <br />
