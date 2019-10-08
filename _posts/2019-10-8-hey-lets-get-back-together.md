@@ -25,5 +25,5 @@ Hey, let's get back together, my BROTHER. <br />
 <br />
 Life lessons that you taught, <br />
 You inspired me a lot. <br />
-Without I wouldn't be the person to steady, <br />
+Without you, I wouldn't be the person to steady, <br />
 Hey, let's get back together, my DADDY. <br />
