@@ -80,6 +80,13 @@ authors:
     email:          masoomi.saxena99@gmail.com
     twitter:        https://www.instagram.com/masyoyummy/
 
+  shubhani:
+    name:           Shubhani Mulay
+    avatar:         "assets/images/authors/shubhani.jpg"
+    bio:            "A budding engineer and a newbie writer!"
+    email:          shubhani.mulay25@gmail.com
+    twitter:        https://www.instagram.com/mulay_shubhani25/
+
 
 # Defaults
 defaults:
