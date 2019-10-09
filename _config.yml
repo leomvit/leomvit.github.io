@@ -82,8 +82,8 @@ authors:
 
   kaushiki:
     name:           Kaushiki Krity
-    avatar:         "assets/images/authors/Kaushiki(2).jpg"
-    bio:            "Weird from a normal point of view and normal from werid point of view. You can see me jumping and running around."
+    avatar:         "assets/images/authors/kaushiki.jpg"
+    bio:            "Weird from a normal point of view and normal from the weird point of view. You can see me jumping and running around "
     email:          kaushikikrity@gmail.com
     twitter:        https://www.instagram.com/_kaushiki_krityy_/
 
@@ -94,7 +94,6 @@ authors:
     bio:            "A Technophile, Geek and part time Poet. Loves Music, Skateboards and Formula 1"
     email:          asdavikant@gmail.com
     twitter:        https://www.instagram.com/aesthetixell/
-
 
 # Defaults
 defaults:
