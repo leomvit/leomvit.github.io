@@ -80,12 +80,28 @@ authors:
     email:          masoomi.saxena99@gmail.com
     twitter:        https://www.instagram.com/masyoyummy/
 
+
   shubhani:
     name:           Shubhani Mulay
     avatar:         "assets/images/authors/shubhani.jpg"
     bio:            "A budding engineer and a newbie writer!"
     email:          shubhani.mulay25@gmail.com
     twitter:        https://www.instagram.com/mulay_shubhani25/
+  
+  kaushiki:
+    name:           Kaushiki Krity
+    avatar:         "assets/images/authors/Kaushiki(2).jpg"
+    bio:            "Weird from a normal point of view and normal from werid point of view. You can see me jumping and running around."
+    email:          kaushikikrity@gmail.com
+    twitter:        https://www.instagram.com/_kaushiki_krityy_/
+
+  avikant:
+    name:           Avikant Srivastava
+    site:           http://avikant.works/
+    avatar:         "assets/images/authors/avikant.jpeg"
+    bio:            "A Technophile, Geek and part time Poet. Loves Music, Skateboards and Formula 1"
+    email:          asdavikant@gmail.com
+    twitter:        https://www.instagram.com/aesthetixel
 
 
 # Defaults
