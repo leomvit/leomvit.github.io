@@ -19,30 +19,6 @@ plugins:
   - jekyll-seo-tag
 
 authors:
-  shivani:
-    name:           Shivani Sen
-    site:           http://unlockingdoor.blogspot.com/
-    avatar:         "assets/images/authors/shivani.jpeg"
-    bio:            "A budding engineer, aspires to make people feel experiences with her words."
-    email:          shivani.sen16052000@gmail.com
-    twitter:        https://www.instagram.com/ssshhh_vani/
-
-  satyam:
-    name:           Satyam Shree
-    # site:           https://swati1995blog.wordpress.com/
-    avatar:         "assets/images/authors/satyam.jpeg"
-    bio:            "I'll let my poems speak for me."
-    # email:          fakemail@gmail.com
-    twitter:        https://www.instagram.com/satyam_shree_cookie_s22/
-
-  swati:
-    name:           Swati Mishra
-    site:           https://swati1995blog.wordpress.com/
-    avatar:         "assets/images/authors/swati.png"
-    bio:            "A proud misfit who's all about dogs, books and everything that's Bollywood. Still waiting for a Hogwarts letter."
-    email:          fakemail@gmail.com
-    twitter:        https://www.instagram.com/winged_pursuits/
-
   abhishek:
     name:           Abhishek Kumar
     avatar:         "assets/images/authors/abhishek.jpg"
@@ -50,12 +26,13 @@ authors:
     email:          abhiabhikr7@gmail.com
     twitter:        https://www.instagram.com/abhishekk_kumarr__/
 
-  vedang:
-    name:           Vedang Singh Thakur
-    avatar:         "assets/images/authors/vedang.jpeg"
-    bio:            "Small town boy trying to make stuff happen."
-    email:          vst0010@gmail.com
-    twitter:        https://www.instagram.com/vst_10/
+  avikant:
+    name:           Avikant Srivastava
+    site:           http://avikant.works/
+    avatar:         "assets/images/authors/avikant.jpeg"
+    bio:            "A Technophile, Geek and part time Poet. Loves Music, Skateboards and Formula 1"
+    email:          asdavikant@gmail.com
+    instagram:        https://www.instagram.com/aesthetixell
 
   deeksha:
     name:           Deeksha
@@ -63,7 +40,46 @@ authors:
     avatar:         "assets/images/authors/deeksha.jpeg"
     bio:            "Words let me speak."
     # email:          fakemail@gmail.com
-    twitter:        https://www.instagram.com/deeksha_ramesh15/
+    instagram:        https://www.instagram.com/deeksha_ramesh15/
+
+  kaushiki:
+    name:           Kaushiki Krity
+    avatar:         "assets/images/authors/kaushiki.jpg"
+    bio:            "Weird from a normal point of view and normal from the weird point of view. You can see me jumping and running around "
+    email:          kaushikikrity@gmail.com
+    instagram:        https://www.instagram.com/_kaushiki_krityy_/
+  
+  masoomi:
+    name:           Masoomi Saxena
+    # site:         https://swati1995blog.wordpress.com/
+    avatar:         "assets/images/authors/masoomi.jpg"
+    bio:            "A bibliophile ambivert with great passion for chicken nuggets. Find me blabbering on stage or jamming to Lana Del Rey."
+    email:          masoomi.saxena99@gmail.com
+    instagram:        https://www.instagram.com/masyoyummy/
+
+  pratyush:
+    name:           Pratyush Kumar Shekhar 
+    #site:           www.thesoulmeltingwords.blogspot.com
+    avatar:           "assets/images/authors/pratyush.jpeg"
+    bio:            ""
+    email:          shekharofficial311@gmail.com 
+    instagram:      https://www.instagram.com/_shekhar_official_/
+
+  satyam:
+    name:           Satyam Shree
+    # site:           https://swati1995blog.wordpress.com/
+    avatar:         "assets/images/authors/satyam.jpeg"
+    bio:            "I'll let my poems speak for me."
+    # email:          fakemail@gmail.com
+    instagram:        https://www.instagram.com/satyam_shree_cookie_s22/
+  
+  shivani:
+    name:           Shivani Sen
+    site:           http://unlockingdoor.blogspot.com/
+    avatar:         "assets/images/authors/shivani.jpeg"
+    bio:            "A budding engineer, aspires to make people feel experiences with her words."
+    email:          shivani.sen16052000@gmail.com
+    instagram:        https://www.instagram.com/ssshhh_vani/
 
   shreoshee:
     name:           Shreoshee Mukherjee
@@ -71,38 +87,31 @@ authors:
     avatar:         "assets/images/authors/shreoshee.jpeg"
     bio:            "A dreamer, who just graduated to real life. Loves to be herself. Can't resist pets. Aims to be a Talky and a Techie person. 🙈"
     # email:          fakemail@gmail.com
-    twitter:        https://www.instagram.com/shreoshee_mukherjee/
+    instagram:        https://www.instagram.com/shreoshee_mukherjee/
 
-  masoomi:
-    name:           Masoomi Saxena
-    # site:         https://swati1995blog.wordpress.com/
-    avatar:         "assets/images/authors/masoomi.jpg"
-    bio:            "A bibliophile ambivert with great passion for chicken nuggets. Find me blabbering on stage or jamming to Lana Del Rey."
-    email:          masoomi.saxena99@gmail.com
-    twitter:        https://www.instagram.com/masyoyummy/
-
-
-  shubhani:
+shubhani:
     name:           Shubhani Mulay
     avatar:         "assets/images/authors/shubhani.jpg"
     bio:            "A budding engineer and a newbie writer!"
     email:          shubhani.mulay25@gmail.com
-    twitter:        https://www.instagram.com/mulay_shubhani25/
-  
-  kaushiki:
-    name:           Kaushiki Krity
-    avatar:         "assets/images/authors/kaushiki.jpg"
-    bio:            "Weird from a normal point of view and normal from the weird point of view. You can see me jumping and running around "
-    email:          kaushikikrity@gmail.com
-    twitter:        https://www.instagram.com/_kaushiki_krityy_/
+    instagram:        https://www.instagram.com/mulay_shubhani25/
 
-  avikant:
-    name:           Avikant Srivastava
-    site:           http://avikant.works/
-    avatar:         "assets/images/authors/avikant.jpeg"
-    bio:            "A Technophile, Geek and part time Poet. Loves Music, Skateboards and Formula 1"
-    email:          asdavikant@gmail.com
-    twitter:        https://www.instagram.com/aesthetixell
+  swati:
+    name:           Swati Mishra
+    site:           https://swati1995blog.wordpress.com/
+    avatar:         "assets/images/authors/swati.png"
+    bio:            "A proud misfit who's all about dogs, books and everything that's Bollywood. Still waiting for a Hogwarts letter."
+    email:          fakemail@gmail.com
+    twitter:        https://www.instagram.com/winged_pursuits
+
+  vedang:
+    name:           Vedang Singh Thakur
+    avatar:         "assets/images/authors/vedang.jpeg"
+    bio:            "Small town boy trying to make stuff happen."
+    email:          vst0010@gmail.com
+    instagram:        https://www.instagram.com/vst_10/
+
+
 
 # Defaults
 defaults:
