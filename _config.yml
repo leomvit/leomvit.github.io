@@ -19,6 +19,7 @@ plugins:
   - jekyll-seo-tag
 
 authors:
+
   abhishek:
     name:           Abhishek Kumar
     avatar:         "assets/images/authors/abhishek.jpg"
@@ -96,7 +97,7 @@ shubhani:
     email:          shubhani.mulay25@gmail.com
     twitter:        https://www.instagram.com/mulay_shubhani25/
 
-  swati:
+swati:
     name:           Swati Mishra
     site:           https://swati1995blog.wordpress.com/
     avatar:         "assets/images/authors/swati.png"
@@ -104,7 +105,7 @@ shubhani:
     email:          fakemail@gmail.com
     twitter:        https://www.instagram.com/winged_pursuits
 
-  vedang:
+vedang:
     name:           Vedang Singh Thakur
     avatar:         "assets/images/authors/vedang.jpeg"
     bio:            "Small town boy trying to make stuff happen."
