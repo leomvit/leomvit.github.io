@@ -9,6 +9,7 @@ image: assets/images/mother.jpg
 **“No! You cannot give birth to this girl”**
 
 **INFANT SAYS-**
+
 When this sound came and struck me in your womb! I got horror-struck, I was frightened and scared. 
 MA, with a devastating heart I am asking you won’t you give birth to me?
 You are praying for a baby boy but what about the girl you are going to give birth, why do you want to kill me!
@@ -16,6 +17,7 @@ Oh! My mother, you are not coward , you have to give birth to me.
  My life would be all yours and  I promise I will never let you down!
  
 **MOTHER SAYS-**
+
 No baby! 
  You don’t know this world. This world is very selfish and cold-hearted.
  I know this world, I have lived in it. If I will give birth to you, you will have to go through a lot of pain and perplexity. 
@@ -27,6 +29,7 @@ This world is cruel, I wish I could keep you in there for my whole lifetime.
 Again I am saying that I know and  I have been through this brutal world’s deed. 
 
 **INFANT SAYS-**	
+
 I know, MA! 
 You are scared, you don’t want whatever has happened to you I go through the same , unjust life aa yours. 
 But trust me, I won’t be a child who will silently bear all the pain.
