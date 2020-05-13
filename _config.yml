@@ -46,10 +46,10 @@ authors:
   kaushiki:
     name:           Kaushiki Krity
     avatar:         "assets/images/authors/kaushiki.jpg"
-    bio:            "Weird from a normal point of view and normal from the weird point of view. You can see me jumping and running around "
-    email:          kaushikikrity@gmail.com
-    twitter:        https://www.instagram.com/_kaushiki_krityy_/
-  
+    bio:            "Weird from a normal point of view and normal from a weird point of view."
+    email:          kaushikiworks@gmail.com
+    twitter:        https://www.instagram.com/_kauzzkayy_/
+
   masoomi:
     name:           Masoomi Saxena
     # site:         https://swati1995blog.wordpress.com/
@@ -111,16 +111,6 @@ vedang:
     bio:            "Small town boy trying to make stuff happen."
     email:          vst0010@gmail.com
     twitter:        https://www.instagram.com/vst_10/
-
-
-
-  kaushiki:
-    name:           Kaushiki Krity
-    avatar:         "assets/images/authors/kaushiki.jpg"
-    bio:            "Weird from a normal point of view and normal from a weird point of view."
-    email:          kaushikiworks@gmail.com
-    twitter:        https://www.instagram.com/_kauzzkayy_/
-
 
 
 # Defaults
