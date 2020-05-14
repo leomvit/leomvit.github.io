@@ -16,7 +16,7 @@ MA, with a devastating heart I am asking you won’t you give birth to me?
 
 You are praying for a baby boy but what about the girl you are going to give birth, why do you want to kill me!
 
-Oh! My mother, you are not coward , you have to give birth to me.
+Oh! My mother, you are not a coward , you have to give birth to me.
 
  My life would be all yours and  I promise I will never let you down!
  
@@ -46,7 +46,7 @@ Again I am saying that I know and  I have been through this brutal world’s dee
 
 I know, MA! 
 
-You are scared, you don’t want whatever has happened to you I go through the same , unjust life aa yours. 
+You are scared, you don’t want whatever has happened to you I go through the same , unjust life as yours. 
 
 But trust me, I won’t be a child who will silently bear all the pain.
 
@@ -61,4 +61,4 @@ Let's start a movement together, let us tell the world and influence others that
 I know MA! You are strong and impregnable. 
 
 
- _**Let’s beak the shackles of fear together!!**_
+ _**Let’s break the shackles of fear together!!**_
