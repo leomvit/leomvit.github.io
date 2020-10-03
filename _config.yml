@@ -62,7 +62,7 @@ authors:
     name:           Pratyush Kumar Shekhar 
     #site:          https://thesoulmeltingwords.blogspot.com/
     avatar:         "assets/images/authors/pratyush.jpeg"
-    bio:            ""
+    bio:            "Turned my dreams into my vision and my vision into my reality."
     email:          shekharofficial311@gmail.com 
     twitter:      https://www.instagram.com/_shekhar_official_/
 
@@ -76,7 +76,7 @@ authors:
   
   shivani:
     name:           Shivani Sen
-    site:           http://unlockingdoor.blogspot.com/
+    # site:           http://unlockingdoor.blogspot.com/
     avatar:         "assets/images/authors/shivani.jpeg"
     bio:            "A budding engineer, aspires to make people feel experiences with her words."
     email:          shivani.sen16052000@gmail.com
