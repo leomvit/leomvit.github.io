@@ -29,7 +29,7 @@ authors:
 
   avikant:
     name:           Avikant Srivastava
-    site:           http://avikant.works/
+    #site:           http://avikant.works/
     avatar:         "assets/images/authors/avikant.jpeg"
     bio:            "A Technophile, Geek and part time Poet. Loves Music, Skateboards and Formula 1"
     email:          asdavikant@gmail.com
@@ -60,7 +60,7 @@ authors:
 
   pratyush:
     name:           Pratyush Kumar Shekhar 
-    #site:          https://thesoulmeltingwords.blogspot.com/
+    site:          https://thesoulmeltingwords.blogspot.com/
     avatar:         "assets/images/authors/pratyush.jpeg"
     bio:            "Turned my dreams into my vision and my vision into my reality."
     email:          shekharofficial311@gmail.com 
@@ -76,7 +76,7 @@ authors:
   
   shivani:
     name:           Shivani Sen
-    # site:           http://unlockingdoor.blogspot.com/
+    site:           http://unlockingdoor.blogspot.com/
     avatar:         "assets/images/authors/shivani.jpeg"
     bio:            "A budding engineer, aspires to make people feel experiences with her words."
     email:          shivani.sen16052000@gmail.com
