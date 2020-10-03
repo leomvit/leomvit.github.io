@@ -61,4 +61,4 @@ Let's start a movement together, let us tell the world and influence others that
 I know MA! You are strong and impregnable. 
 
 
- _**Let’s beak the shackles of fear together!!**_
+ _**Let’s break the shackles of fear together!!**_
