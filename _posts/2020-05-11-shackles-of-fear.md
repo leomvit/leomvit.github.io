@@ -16,7 +16,7 @@ MA, with a devastating heart I am asking you won’t you give birth to me?
 
 You are praying for a baby boy but what about the girl you are going to give birth, why do you want to kill me!
 
-Oh! My mother, you are not coward , you have to give birth to me.
+Oh! My mother,you are not coward,you have to give birth to me.
 
  My life would be all yours and  I promise I will never let you down!
  
