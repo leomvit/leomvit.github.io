@@ -29,7 +29,7 @@ authors:
 
   avikant:
     name:           Avikant Srivastava
-    site:           http://avikant.works/
+    #site:           http://avikant.works/
     avatar:         "assets/images/authors/avikant.jpeg"
     bio:            "A Technophile, Geek and part time Poet. Loves Music, Skateboards and Formula 1"
     email:          asdavikant@gmail.com
@@ -45,11 +45,11 @@ authors:
 
   kaushiki:
     name:           Kaushiki Krity
-    avatar:         "assets/images/authors/kaushiki.jpg"
-    bio:            "Weird from a normal point of view and normal from the weird point of view. You can see me jumping and running around "
-    email:          kaushikikrity@gmail.com
-    twitter:        https://www.instagram.com/_kaushiki_krityy_/
-  
+    avatar:         "assets/images/authors/kaushiki.jpeg"
+    bio:            "Weird from a normal point of view and normal from a weird point of view."
+    email:          kaushikiworks@gmail.com
+    twitter:        https://www.instagram.com/_kauzzkayy_/
+
   masoomi:
     name:           Masoomi Saxena
     # site:         https://swati1995blog.wordpress.com/
@@ -60,9 +60,9 @@ authors:
 
   pratyush:
     name:           Pratyush Kumar Shekhar 
-    #site:          https://thesoulmeltingwords.blogspot.com/
+    site:          https://thesoulmeltingwords.blogspot.com/
     avatar:         "assets/images/authors/pratyush.jpeg"
-    bio:            ""
+    bio:            "Turned my dreams into my vision and my vision into my reality."
     email:          shekharofficial311@gmail.com 
     twitter:      https://www.instagram.com/_shekhar_official_/
 
@@ -90,14 +90,14 @@ authors:
     # email:          fakemail@gmail.com
     twitter:        https://www.instagram.com/shreoshee_mukherjee/
 
-shubhani:
+  shubhani:
     name:           Shubhani Mulay
     avatar:         "assets/images/authors/shubhani.jpg"
     bio:            "A budding engineer and a newbie writer!"
     email:          shubhani.mulay25@gmail.com
     twitter:        https://www.instagram.com/mulay_shubhani25/
 
-swati:
+  swati:
     name:           Swati Mishra
     site:           https://swati1995blog.wordpress.com/
     avatar:         "assets/images/authors/swati.png"
@@ -105,13 +105,12 @@ swati:
     email:          fakemail@gmail.com
     twitter:        https://www.instagram.com/winged_pursuits
 
-vedang:
+  vedang:
     name:           Vedang Singh Thakur
     avatar:         "assets/images/authors/vedang.jpeg"
     bio:            "Small town boy trying to make stuff happen."
     email:          vst0010@gmail.com
     twitter:        https://www.instagram.com/vst_10/
-
 
 
 # Defaults
