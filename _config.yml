@@ -59,11 +59,11 @@ authors:
     twitter:        https://www.instagram.com/masyoyummy/
 
   pratyush:
-    name:           Pratyush Kumar Shekhar 
+    name:           Pratyush Kumar Shekhar
     site:           https://thesoulmeltingwords.blogspot.com/
     avatar:         "assets/images/authors/pratyush.jpeg"
     bio:            "Turned my dreams into my vision and my vision into my reality."
-    email:          shekharofficial311@gmail.com 
+    email:          shekharofficial311@gmail.com
     twitter:        https://www.instagram.com/_shekhar_official_/
 
   satyam:
@@ -73,7 +73,7 @@ authors:
     bio:            "I'll let my poems speak for me."
     # email:          fakemail@gmail.com
     twitter:        https://www.instagram.com/satyam_shree_cookie_s22/
-  
+
   shivani:
     name:           Shivani Sen
     site:           http://unlockingdoor.blogspot.com/
@@ -96,6 +96,13 @@ authors:
     bio:            "A budding engineer and a newbie writer!"
     email:          shubhani.mulay25@gmail.com
     twitter:        https://www.instagram.com/mulay_shubhani25/
+
+  shubhra:
+    name:           Shubhra Dixit
+    avatar:         "assets/images/authors/shubhra1.jpg"
+    bio:            "Writing to calm my soul. Probably listening to an indie artist on repeat.The unknown fascinates me."
+    email:          dixitshubhra73@gmail.com
+    twitter:        https://www.instagram.com/_lostnow_/
 
   swati:
     name:           Swati Mishra
