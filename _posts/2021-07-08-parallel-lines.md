@@ -19,4 +19,4 @@ we never lost, it was all bright and red<br />
 destinies aligned, stay with me, just sit<br />
 our colours combined, heartbreak was a myth<br />
 thoughts resigned, this ending was so fit<br />
-to realise we were parallel lines to begin with<br />
+to realise we were parallel lines to begin with.<br />
