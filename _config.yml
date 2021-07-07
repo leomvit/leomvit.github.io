@@ -119,6 +119,13 @@ authors:
     email:          vst0010@gmail.com
     twitter:        https://www.instagram.com/vst_10/
 
+  kushagra:
+    name:           Kushagra Agarwal
+    site:           https://codewithkushagra.netlify.app/
+    avatar:         "assets/images/authors/kushagra.jpg"
+    bio:            "Am a code geek, a NARUTO fan and also love expressing my depression in words :)"
+    email:          kushagraagra008@gmail.com
+    twitter:        https://www.instagram.com/kushagra_agra008/
 
 # Defaults
 defaults:
