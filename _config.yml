@@ -135,6 +135,14 @@ authors:
     email:          adarshkgupta@outlook.com
     twitter:        https://www.instagram.com/adkgup/
 
+  shauryam:
+    name:           Shauryam Jain
+    site:           https://www.linkedin.com/in/shauryam-jain/
+    avatar:         "assets/images/authors/shauryam.jpg"
+    bio:            "Inking my thoughts from the close encounters with my life."
+    email:          shauryam.jain@gmail.com
+    twitter:        https://www.instagram.com/shauryamistic/
+
 # Defaults
 defaults:
 
