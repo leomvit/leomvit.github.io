@@ -126,6 +126,17 @@ authors:
     bio:            "I am a code geek, a NARUTO fan and also love expressing my depression in words :)"
     email:          kushagraagra008@gmail.com
     twitter:        https://www.instagram.com/kushagra_agra008/
+<<<<<<< HEAD
+=======
+    
+  adkgup:
+    name:           Adarsh Kumar Gupta
+    site:           https://adkgup.live/
+    avatar:         "assets/images/authors/adkgup.jpg"
+    bio:            "I don't have the strength to keep writing this."
+    email:          adarshkgupta@outlook.com
+    twitter:        https://www.instagram.com/adkgup/
+>>>>>>> upstream/master
 
 # Defaults
 defaults:
