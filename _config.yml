@@ -27,6 +27,14 @@ authors:
     email:          abhiabhikr7@gmail.com
     twitter:        https://www.instagram.com/abhishekk_kumarr__/
 
+  adkgup:
+    name:           Adarsh Kumar Gupta
+    site:           https://adkgup.live/
+    avatar:         "assets/images/authors/adkgup.jpg"
+    bio:            "I don't have the strength to keep writing this."
+    email:          adarshkgupta@outlook.com
+    twitter:        https://www.instagram.com/adkgup/
+
   avikant:
     name:           Avikant Srivastava
     #site:           http://avikant.works/
@@ -49,6 +57,14 @@ authors:
     bio:            "Weird from a normal point of view and normal from a weird point of view."
     email:          kaushikiworks@gmail.com
     twitter:        https://www.instagram.com/_kauzzkayy_/
+
+  kushagra:
+    name:           Kushagra Agarwal
+    site:           https://codewithkushagra.netlify.app/
+    avatar:         "assets/images/authors/kushagra.jpg"
+    bio:            "I am a code geek, a NARUTO fan and also love expressing my depression in words :)"
+    email:          kushagraagra008@gmail.com
+    twitter:        https://www.instagram.com/kushagra_agra008/
 
   masoomi:
     name:           Masoomi Saxena
@@ -119,21 +135,7 @@ authors:
     email:          vst0010@gmail.com
     twitter:        https://www.instagram.com/vst_10/
 
-  kushagra:
-    name:           Kushagra Agarwal
-    site:           https://codewithkushagra.netlify.app/
-    avatar:         "assets/images/authors/kushagra.jpg"
-    bio:            "I am a code geek, a NARUTO fan and also love expressing my depression in words :)"
-    email:          kushagraagra008@gmail.com
-    twitter:        https://www.instagram.com/kushagra_agra008/
     
-  adkgup:
-    name:           Adarsh Kumar Gupta
-    site:           https://adkgup.live/
-    avatar:         "assets/images/authors/adkgup.jpg"
-    bio:            "I don't have the strength to keep writing this."
-    email:          adarshkgupta@outlook.com
-    twitter:        https://www.instagram.com/adkgup/
 
 # Defaults
 defaults:
