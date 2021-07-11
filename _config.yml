@@ -82,6 +82,15 @@ authors:
     email:          shekharofficial311@gmail.com
     twitter:        https://www.instagram.com/_shekhar_official_/
 
+  priyanshur:
+    name:           Priyanshu Raj
+    site:          
+    avatar:         "assets/images/authors/priyanshur.jpeg"
+    bio:            "Intriguing People Intrigues Me😉..Just a normal lad exploring weird things xD"                        
+    email:          rpriyanshu1247@gmail.com
+    twitter:        https://www.instagram.com/priyanshuraj_04/
+
+
   satyam:
     name:           Satyam Shree
     # site:           https://swati1995blog.wordpress.com/
@@ -137,14 +146,7 @@ authors:
 
     
 
-  priyanshur:
-    name:           Priyanshu Raj
-    site:          
-    avatar:         "assets/images/authors/priyanshur.jpeg"
-    bio:            "intriguing people intrigues me"                        
-    email:          rpriyanshu1247@gmail.com
-    twitter:        https://www.instagram.com/priyanshuraj_04/
-
+  
 # Defaults
 defaults:
 
