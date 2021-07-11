@@ -27,6 +27,14 @@ authors:
     email:          abhiabhikr7@gmail.com
     twitter:        https://www.instagram.com/abhishekk_kumarr__/
 
+  adarsh:
+    name:           Adarsh Singh
+    #site:          https://www.linkedin.com/in/adarsh-singh-7b9a98201/
+    avatar:         "assets/images/authors/adarsh.jpeg"
+    bio:            "A cheerful tech enthusiast (weird, isn't it?). I can do things which no one can and no one can do things which I can!"
+    email:          adarshsingh22032002@gmail.com
+    twitter:        https://www.instagram.com/just_adarsh22/
+
   adkgup:
     name:           Adarsh Kumar Gupta
     site:           https://adkgup.live/
@@ -134,16 +142,6 @@ authors:
     bio:            "Small town boy trying to make stuff happen."
     email:          vst0010@gmail.com
     twitter:        https://www.instagram.com/vst_10/
-
-    
-
-  adarsh:
-    name:           Adarsh Singh
-    #site:           https://www.linkedin.com/in/adarsh-singh-7b9a98201/
-    avatar:         "assets/images/authors/adarsh.jpeg"
-    bio:            "A cheerful tech enthusiast (weird, isn't it?). I can do things which no one can, no one can do things which I can!"
-    email:          adarshsingh22032002@gmail.com
-    twitter:        https://www.instagram.com/just_adarsh22/
 
 # Defaults
 defaults:
