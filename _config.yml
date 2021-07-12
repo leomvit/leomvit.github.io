@@ -35,6 +35,14 @@ authors:
     email:          adarshkgupta@outlook.com
     twitter:        https://www.instagram.com/adkgup/
 
+  adarsh:
+    name:           Adarsh Singh
+    #site:          https://www.linkedin.com/in/adarsh-singh-7b9a98201/
+    avatar:         "assets/images/authors/adarsh.jpeg"
+    bio:            "A cheerful tech enthusiast (weird, isn't it?). I can do things which no one can and no one can do things which I can!"
+    email:          adarshsingh22032002@gmail.com
+    twitter:        https://www.instagram.com/just_adarsh22/
+
   avikant:
     name:           Avikant Srivastava
     #site:           http://avikant.works/
