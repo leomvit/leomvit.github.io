@@ -2,7 +2,7 @@
 layout: post
 title:  "Villages - The Soul of India"
 categories: [ travel ]
-image: assets/images/peace.jpeg
+image: assets/images/villages_pratyush.jpeg
 author: pratyush
 ---
 
