@@ -65,6 +65,13 @@ authors:
     bio:            "Weird from a normal point of view and normal from a weird point of view."
     email:          kaushikiworks@gmail.com
     twitter:        https://www.instagram.com/_kauzzkayy_/
+  
+  krishna:
+    name:           Krishna Upadhyay
+    avatar:         "assets/images/authors/krishna.jpeg"
+    bio:            "Loves to express emotions through words as the most powerful ways to express ourselves."
+    email:          krupadhyay192@gmail.com
+    twitter:        https://www.instagram.com/krishna_upadhyayyy/
 
   kushagra:
     name:           Kushagra Agarwal
@@ -89,6 +96,15 @@ authors:
     bio:            "Turned my dreams into my vision and my vision into my reality."
     email:          shekharofficial311@gmail.com
     twitter:        https://www.instagram.com/_shekhar_official_/
+
+  priyanshur:
+    name:           Priyanshu Raj
+    site:          
+    avatar:         "assets/images/authors/priyanshur.jpeg"
+    bio:            "Intriguing People Intrigues Me😉..Just a normal lad exploring weird things xD"                        
+    email:          rpriyanshu1247@gmail.com
+    twitter:        https://www.instagram.com/priyanshuraj_04/
+
 
   satyam:
     name:           Satyam Shree
@@ -145,6 +161,7 @@ authors:
 
     
 
+  
 # Defaults
 defaults:
 
