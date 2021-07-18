@@ -83,8 +83,4 @@ RUBY VERSION
    ruby 2.7.0p0
 
 BUNDLED WITH
-<<<<<<< HEAD
-   2.2.21
-=======
    2.0.2
->>>>>>> refs/remotes/origin/master
