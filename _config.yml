@@ -35,6 +35,16 @@ authors:
     email:          adarshkgupta@outlook.com
     twitter:        https://www.instagram.com/adkgup/
 
+
+  adarsh:
+    name:           Adarsh Singh
+    #site:          https://www.linkedin.com/in/adarsh-singh-7b9a98201/
+    avatar:         "assets/images/authors/adarsh.jpeg"
+    bio:            "A cheerful tech enthusiast (weird, isn't it?). I can do things which no one can and no one can do things which I can!"
+    email:          adarshsingh22032002@gmail.com
+    twitter:        https://www.instagram.com/just_adarsh22/
+
+
   avikant:
     name:           Avikant Srivastava
     #site:           http://avikant.works/
@@ -57,6 +67,21 @@ authors:
     bio:            "Weird from a normal point of view and normal from a weird point of view."
     email:          kaushikiworks@gmail.com
     twitter:        https://www.instagram.com/_kauzzkayy_/
+  
+  krishna:
+    name:           Krishna Upadhyay
+    avatar:         "assets/images/authors/krishna.jpeg"
+    bio:            "Loves to express emotions through words as the most powerful ways to express ourselves."
+    email:          krupadhyay192@gmail.com
+    twitter:        https://www.instagram.com/krishna_upadhyayyy/
+
+  kushagra:
+    name:           Kushagra Agarwal
+    site:           https://codewithkushagra.netlify.app/
+    avatar:         "assets/images/authors/kushagra.jpg"
+    bio:            "I am a code geek, a NARUTO fan and also love expressing my depression in words :)"
+    email:          kushagraagra008@gmail.com
+    twitter:        https://www.instagram.com/kushagra_agra008/
 
   kushagra:
     name:           Kushagra Agarwal
@@ -81,6 +106,15 @@ authors:
     bio:            "Turned my dreams into my vision and my vision into my reality."
     email:          shekharofficial311@gmail.com
     twitter:        https://www.instagram.com/_shekhar_official_/
+
+  priyanshur:
+    name:           Priyanshu Raj
+    site:          
+    avatar:         "assets/images/authors/priyanshur.jpeg"
+    bio:            "Intriguing People Intrigues Me😉..Just a normal lad exploring weird things xD"                        
+    email:          rpriyanshu1247@gmail.com
+    twitter:        https://www.instagram.com/priyanshuraj_04/
+
 
   satyam:
     name:           Satyam Shree
@@ -137,6 +171,7 @@ authors:
 
     
 
+  
 # Defaults
 defaults:
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "What exactly is L.E.O?"
 categories: [ leo ]
-image: assets/images/Vintage-Sample-Welcome-Banner-Template.jpg
+image: assets/images/what_exactly_is_leo.jpeg
 author: shreoshee
 excerpt: "Let's Express Ourselves (LEO) is the official literature and interpersonal skills development club of Sir M. Visvesraya Institute of Technology, Bangalore."
 tags: [ sticky ]
