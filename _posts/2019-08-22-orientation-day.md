@@ -9,7 +9,6 @@ excerpt: "Thus marking another successful start for the next year of LEO. The LE
 ---
 The LEO Freshers Orientation was scheduled on the 22nd of august in the CSE Seminar Hall of the Main Block. Even though conducted in the middle of the day, LEO had a massive turn up for the orientation session. And it was amazing to witness a crowd of such enthusiasts.
 
-![](/assets/images/orientation.jpeg)
 
 The freshers were confident and active in participation. The session was started by [Abhijeet Singh](https://www.absingh.com/) (4th-year CSE), who not only is a Leonite but also one of the best our college ever had in terms of any technical knowledge. He enlightened the crowd about how LEO has been changing lives and how it impacted him. Apart from that he also guided the freshers on their way to technology.
 
